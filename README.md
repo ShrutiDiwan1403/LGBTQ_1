@@ -10,10 +10,11 @@ Albania, Italy, Spain, and the United Kingdom are some of the countries that all
 
 Joint Adoption and second-parent adoption are different. In both the process, both parents have equal legal parental rights. In joint adoption, both LGBT parents have equal participation in the process. In a second-parent adoption, parental rights are passed from one parent to another, splitting the rights equally.
 
-Armenia, Liechtenstein,	Monaco, Russia, and Turkey are the countries that do not support the LGBTQ+ community or provide any facilities.
-
+Armenia, Liechtenstein,	Monaco, Russia, and Turkey are the countries that do not support the LGBTQ+ community or provide any facilities. There most supportive nations are France and Malta. There is no country that is completely ( 100% respect of human rights, full equality) support the community.
 
 The map is not a choropleth map but a type of filled choropleth map, as it doesn't use thematic colour to display quantitative information (enumeration units).
+
+Rainbow Europe brings together both the legal index of LGBTI equality based on our Rainbow Europe Map and an overview of the social climate for LGBTI people in each country based on our Annual Review of the Human Rights Situation of Lesbian, Gay, Bisexual, Trans and Intersex People.
 
 **Programming Language**:  --
 
