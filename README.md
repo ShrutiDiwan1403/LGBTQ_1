@@ -10,6 +10,8 @@ Albania, Italy, Spain, and the United Kingdom are some of the countries that all
 
 Joint Adoption and second-parent adoption are different. In both the process, both parents have equal legal parental rights. In joint adoption, both LGBT parents have equal participation in the process. In a second-parent adoption, parental rights are passed from one parent to another, splitting the rights equally.
 
+Armenia, Liechtenstein,	Monaco, Russia, and Turkey are the countries that do not support the LGBTQ+ community or provide any facilities.
+
 
 The map is not a choropleth map but a type of filled choropleth map, as it doesn't use thematic colour to display quantitative information (enumeration units).
 
