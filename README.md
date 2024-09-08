@@ -6,6 +6,11 @@
 
 **Description and Insight**: The data set retains information on marriage equality, joint adoption, second-parent adoption, and more through its features. The features are utilized for computing the legal index of LGBTQ equality.
 
+Albania, Italy, Spain, and the United Kingdom are some of the countries that allow blood donations to LGBTQ+ individuals. The dataset also includes information on countries where joint adoption and equal marriage are legal. Western and Northern European countries have implemented these laws.
+
+Joint Adoption and second-parent adoption are different. In both the process, both parents have equal legal parental rights. In joint adoption, both LGBT parents have equal participation in the process. In a second-parent adoption, parental rights are passed from one parent to another, splitting the rights equally.
+
+
 The map is not a choropleth map but a type of filled choropleth map, as it doesn't use thematic colour to display quantitative information (enumeration units).
 
 **Programming Language**:  --
